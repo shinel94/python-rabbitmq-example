@@ -18,4 +18,5 @@ RabbitMQ 서비스와 Python이 통신하기 위해서는 pika라는 패키지�
 
 ## 예제
 
-Simple PubSub
+* [Simple PubSub](https://github.com/shinel94/python-rabbitmq-example/tree/master/simple-pub-sub)
+* [Topic PubSub](https://github.com/shinel94/python-rabbitmq-example/tree/master/topic-pub-sub)
